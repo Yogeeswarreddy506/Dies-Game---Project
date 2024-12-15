@@ -1,0 +1,31 @@
+.container{
+    
+font-family:  'Franklin Gothic Medium', 'Arial Narrow',Arial, sans-serif;
+text-align: center;}
+.dice{
+    font-size: xx-large;
+    display: inline-block;
+    margin: 55px;
+}
+
+img{
+    width: 25%;
+}
+button{
+    background-color: aqua;
+    font-family: Comic Sans MS; 
+font-size: xx-large;  border-radius: 50%;
+}
+#res{color: rgb(0, 0, 0);
+font-size: xx-large;
+position: absolute;
+top: 73%;
+left: 45%;
+background-color: rgb(255, 0, 200);
+border-radius: 5px;
+}
+#img1{
+    text-align: center;}
+body{
+background-image: url(images/wp6938982.webp);
+}
